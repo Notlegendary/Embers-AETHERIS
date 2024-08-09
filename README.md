@@ -1,2 +1,2 @@
-# Embers-THERIS
+# Embers-AETHERIS
 Embers ÆTHERIS
